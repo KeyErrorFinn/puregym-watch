@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Play services reads Wear capabilities by name, so resource shrinking can't see the reference. -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@array/android_wear_capabilities" />
