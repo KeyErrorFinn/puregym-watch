@@ -1,6 +1,10 @@
 # PG Access
 
 <p align="center">
+  <img src="assets/branding/pg-access-logo-v3-monogram.png" alt="PG Access logo" width="160" />
+</p>
+
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.8.2-2563eb" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
